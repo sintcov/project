@@ -6,7 +6,7 @@
     <title>GIT</title>
 </head>
 <body>
-<h1>Заголовок</h1>
+<h1>Заголовок h1</h1>
 <div>Создал еще один html блок</div>
 <?php
     
