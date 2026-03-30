@@ -9,7 +9,13 @@
 <h1>Заголовок</h1>
 <div>Создал еще один html блок</div>
 <?php
-    echo 'Hello world';
+    
+    function test($a, $b) {
+
+        echo $a + $b;
+    }
+    
+    test(1, 4);
 
 ?>
     
