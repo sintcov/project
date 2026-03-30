@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>GIT</title>
 </head>
 <body>
+<h1>Заголовок</h1>
     <?php
 
         echo 'Hello world';
