@@ -7,6 +7,7 @@
 </head>
 <body>
 <h1>Заголовок</h1>
+<div>Создал еще один html блок</div>
 <?php
     echo 'Hello world';
 
