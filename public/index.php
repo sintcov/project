@@ -7,11 +7,10 @@
 </head>
 <body>
 <h1>Заголовок</h1>
-    <?php
+<?php
+    echo 'Hello world';
 
-        echo 'Hello world';
-
-    ?>
+?>
     
 </body>
 </html>
